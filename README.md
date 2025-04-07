@@ -1,1 +1,2 @@
-The Gibbs Sampler written in Python Numpy.
+# The Gibbs Sampler 
+Written in Python NumPy.
